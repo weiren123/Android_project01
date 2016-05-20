@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lyr_handle_collapse_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\lyr_handle_collapse_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\btn_check_off_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playlist_button_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playlist_button_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_top_dark.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\popup_top_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cate.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_cate.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lyr_handle_expand_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\lyr_handle_expand_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_button_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\next_button_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_playlist.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_playlist.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_button_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\search_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_refresh_button.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\bg_refresh_button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_exit.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_exit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_search_lyr.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_search_lyr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_repeate_random_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_repeate_random_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_button_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\pre_button_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_repeate_all_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_repeate_all_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_refresh.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_button_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\pause_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_repeate_single_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_repeate_single_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_selector_bg_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\grid_selector_bg_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_search_avatar.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_search_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_bg_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\list_bg_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_menu_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_menu_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_pressed.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\btn_default_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_button_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\next_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_repeate_single_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_repeate_single_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lyr_handle_bg.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\lyr_handle_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\editor_bg_default.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\editor_bg_default.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_bg_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\list_bg_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_delete.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_search_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_search_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_create_list.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_create_list.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_net_media_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_net_media_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add_all_to.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_add_all_to.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_first.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\progressbar_first.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_repeate_random_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_repeate_random_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_button_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\pause_button_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\btn_default_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_button_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\play_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_album.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\default_album.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_button_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\pre_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_playlist_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\create_playlist_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pause_indicator.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\list_pause_indicator.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_player.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\bg_player.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_bottom_dark.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\popup_bottom_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_scan.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_scan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_local_media_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_local_media_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_dot_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\progress_dot_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_button_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\search_button_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recent.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_recent.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lyr_handle_expand_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\lyr_handle_expand_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_player_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_player_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_player_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_player_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_menu_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_menu_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_media_library_topbar.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\bg_media_library_topbar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_player_topbar.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\bg_player_topbar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_search_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_search_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_setting.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_dot_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\progress_dot_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\net_error.jpg",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\net_error.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_media.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_sequence_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_sequence_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_full_dark.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\popup_full_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_outline.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\progressbar_outline.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_menu_open_up.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_menu_open_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_repeate_all_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_repeate_all_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrows.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\right_arrows.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_net_media_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_net_media_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playmode_sequence_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playmode_sequence_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_media_library.jpg",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\bg_media_library.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add_to.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_add_to.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_help_update.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\ic_menu_help_update.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_playlist_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\create_playlist_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_second.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\progressbar_second.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_button_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\play_button_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lyr_handle_collapse_default.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\lyr_handle_collapse_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\editor_bg_pressed.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\editor_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playlist_button_focused.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\playlist_button_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_local_media_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\tab_local_media_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pop_menu_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\pop_menu_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grid_selector_bg_focused.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\grid_selector_bg_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_splash.jpg",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\bg_splash.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_playing_indicator.png",
+        "source": "D:\\AndroidStudioProjects\\Android_project\\音乐播放器\\src\\main\\res\\drawable-hdpi\\list_playing_indicator.png"
+    }
+]

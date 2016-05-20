@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_marginTop="5dp"
+    >
+    <EditText
+        android:id="@+id/ed_serch"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/editor_bg_default"
+        android:layout_margin="5dp"
+        android:hint="请输入歌曲或歌手名"
+        />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="5dp"
+        android:layout_alignRight="@id/ed_serch"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/search_button_default"/>
+</RelativeLayout>
