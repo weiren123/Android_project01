@@ -5,11 +5,13 @@
     android:background="@drawable/bg_media_library_topbar"
     android:orientation="horizontal">
     <Button
+        android:id="@+id/bt_back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:visibility="invisible"
         android:background="@drawable/playlist_button_default"/>
     <TextView
+        android:id="@+id/tv_quku"
         android:layout_width="0dp"
         android:layout_weight="1"
         android:layout_height="match_parent"
@@ -18,7 +20,8 @@
         android:textColor="#ffffff"
         android:gravity="center"/>
     <Button
+        android:id="@+id/isplayiing"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/ic_player_default"/>
+        android:background="@drawable/ic_player_selector"/>
 </LinearLayout>

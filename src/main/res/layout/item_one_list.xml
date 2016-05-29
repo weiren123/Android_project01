@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 <LinearLayout
+    android:id="@+id/ll_music"
     android:layout_width="match_parent"
     android:layout_height="80dp"
     android:gravity="center_vertical"
@@ -34,6 +35,7 @@
         android:layout_height="1dp"
         android:background="#0000ff"/>
     <LinearLayout
+        android:id="@+id/ll_playlist"
         android:layout_width="match_parent"
         android:layout_height="80dp"
         android:gravity="center_vertical"

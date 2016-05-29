@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.atguigu.musicplay.MusicListActivity">
+    <include layout="@layout/title_top"/>
+    <ListView
+        android:background="@drawable/bg_media_library"
+        android:id="@+id/lv_musiclist"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <!--<include layout="@layout/radio_buttom"/>-->
+
+</LinearLayout>
